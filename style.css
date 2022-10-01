@@ -3,22 +3,57 @@
     margin: 0px;
 }
 header{
-    background-color: blue;
+    background-color: antiquewhite;
     text-align: center;
 }
 main{
-    background-color: lavender(230, 230, 255);
+    
+    background-color: bisque;
     width: 300px;
     height: auto;
     margin: auto;
 }
-/* nao funciona co formato png */
-section.imag1.figure.01{
-    margin: 0 auto 0 auto;
-        width: 2px;
-        height: auto;
+section.imag1>div{
+    margin: auto;
+    width:70%;
+    height:200px;
+    background-image: url(imag/mae\ do\ crack.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+   
 }
-img{
-    width: 300px;
+section.imag1{
+    /* background-color: brown; */
 }
+section.imag2>div{
+    margin: auto;
+    width:70%;
+    height:200px;
+    background-image: url(imag/li01.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+section.imag3>div{
+    margin: auto;
+    width:70%;
+    height:200px;
+    background-image: url(imag/ta\ livre.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}section.imag4>div{
+    margin: auto;
+    width:70%;
+    height:200px;
+    background-image: url(imag/internet.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}section.imag5>div{
+    margin: auto;
+    width:70%;
+    height:200px;
+    background-image: url(imag/sobremesas.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
 
