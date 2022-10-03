@@ -10,7 +10,7 @@ main{
     
     background-color: bisque;
     width: 300px;
-    height: auto;
+    height: 2430px;
     margin: auto;
 }
 section.imag1>div{
@@ -21,6 +21,16 @@ section.imag1>div{
     background-repeat: no-repeat;
     background-size: 100%;
    
+}
+.b01 {
+    text-align: center;
+    color:rgb(12, 11, 11);
+    margin: auto;
+    width:70%;
+    height:200px;
+}
+.b01>a{
+    color: brown;
 }
 section.imag1{
     /* background-color: brown; */
@@ -33,6 +43,17 @@ section.imag2>div{
     background-repeat: no-repeat;
     background-size: 100%;
 }
+.b02{
+    text-align: center;
+    color:rgb(12, 11, 11);
+    margin: auto;
+    width:70%;
+    height:580px;
+
+}
+.b02>a{
+    color: brown;
+}
 section.imag3>div{
     margin: auto;
     width:70%;
@@ -40,20 +61,52 @@ section.imag3>div{
     background-image: url(imag/ta\ livre.png);
     background-repeat: no-repeat;
     background-size: 100%;
-}section.imag4>div{
+}
+.b03{
+    text-align: center;
+    color:rgb(12, 11, 11);
+    margin: auto;
+    width:70%;
+    height:200px;
+}
+.b03>a{
+    color: brown;
+}
+section.imag4>div{
     margin: auto;
     width:70%;
     height:200px;
     background-image: url(imag/internet.png);
     background-repeat: no-repeat;
     background-size: 100%;
-}section.imag5>div{
+}
+.b04{
+    text-align: center;
+    color:rgb(12, 11, 11);
+    margin: auto;
+    width:70%;
+    height:200px;
+}
+.b04>a{
+    color: brown;
+}
+section.imag5>div{
     margin: auto;
     width:70%;
     height:200px;
     background-image: url(imag/sobremesas.png);
     background-repeat: no-repeat;
     background-size: 100%;
+}
+.b05{
+    text-align: center;
+    color:rgb(12, 11, 11);
+    margin: auto;
+    width:70%;
+    height:200px;
+}
+.b05>a{
+    color: brown;
 }
 
 
